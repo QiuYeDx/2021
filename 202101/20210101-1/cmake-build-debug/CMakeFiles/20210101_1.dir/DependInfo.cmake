@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/git/2021/202101/20210101-1/main.c" "D:/git/2021/202101/20210101-1/cmake-build-debug/CMakeFiles/20210101_1.dir/main.c.obj"
+  "D:/work/git/2021/202101/20210101-1/main.c" "D:/work/git/2021/202101/20210101-1/cmake-build-debug/CMakeFiles/20210101_1.dir/main.c.obj"
   )
-set(CMAKE_C_COMPILER_ID "MSVC")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
