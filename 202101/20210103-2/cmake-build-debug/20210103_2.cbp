@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="20210103_2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/work/git/2020/202012/20210103-2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="20210103_2">
+				<Option output="D:/work/git/2020/202012/20210103-2/cmake-build-debug/20210103_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/work/git/2020/202012/20210103-2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/none/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/none/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/none/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/none/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 20210103_2"/>
+					<CompileFile command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="20210103_2/fast">
+				<Option output="D:/work/git/2020/202012/20210103-2/cmake-build-debug/20210103_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/work/git/2020/202012/20210103-2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/none/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/none/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/none/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/none/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 20210103_2/fast"/>
+					<CompileFile command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/work/git/2020/202012/20210103-2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/work/git/2020/202012/20210103-2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/none/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;D:/work/git/2020/202012/20210103-2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/work/git/2020/202012/20210103-2/main.c">
+			<Option target="20210103_2"/>
+		</Unit>
+		<Unit filename="D:/work/git/2020/202012/20210103-2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
