@@ -5,13 +5,13 @@ int main() {
     char num2[600]={0};
     char num[600]={0};
     int jw[600]={0};
-    int i1,i2,i,i_max,i_min;     //i1:A的位数  i2:B的位数
+    int i1=1,i2=1,i,i_max,i_min;     //i1:A的位数  i2:B的位数
 
-    for(i1=1;scanf("%c",&num1[i1]),num1[i1]!='\n';i1++)  //读入A
+    for(;scanf("%c",&num1[i1])!=EOF && num1[i1]!='\n';i1++)  //读入A
         num1[i1]-=48;
     num1[i1]='\0';
     i1--;
-    for(i2=1;scanf("%c",&num2[i2])!=EOF;i2++)  //读入B
+    for(;scanf("%c",&num2[i2])!=EOF && num2[i]!='\n';i2++)  //读入B
         num2[i2]-=48;
     i2--;
     i_max=i1>i2?i1:i2;
