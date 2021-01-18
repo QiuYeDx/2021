@@ -44,13 +44,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="20210113_6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="20210113_6" TARGET_NAME="20210113_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="20210113_6" RUN_TARGET_NAME="20210113_6">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -71,6 +68,12 @@
       <option name="presentableId" value="Default" />
       <updated>1610551655543</updated>
       <workItem from="1610551656969" duration="5213000" />
+      <workItem from="1610709154315" duration="65000" />
+      <workItem from="1610714609073" duration="96000" />
+      <workItem from="1610716172147" duration="55000" />
+      <workItem from="1610716909252" duration="11000" />
+      <workItem from="1610722181444" duration="42000" />
+      <workItem from="1610778011026" duration="352000" />
     </task>
     <servers />
   </component>
@@ -87,6 +90,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
