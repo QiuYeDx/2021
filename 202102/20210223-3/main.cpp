@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>	//P1036 选数
 #include <cstdio>
 using namespace std;
 int a[30];
