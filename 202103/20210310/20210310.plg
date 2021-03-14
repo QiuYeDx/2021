@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 20210310 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/20210310.res" /d "_DEBUG" "C:\Users\qiuye\Documents\GitHub\2021\202103\20210310\20210310.rc"" 
+Creating temporary file "C:\Users\qiuye\AppData\Local\Temp\RSPA30E.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/20210310.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\qiuye\Documents\GitHub\2021\202103\20210310\20210310.cpp"
+]
+Creating command line "cl.exe @C:\Users\qiuye\AppData\Local\Temp\RSPA30E.tmp" 
+Creating temporary file "C:\Users\qiuye\AppData\Local\Temp\RSPA30F.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/20210310.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\qiuye\Documents\GitHub\2021\202103\20210310\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\qiuye\AppData\Local\Temp\RSPA30F.tmp" 
+Creating temporary file "C:\Users\qiuye\AppData\Local\Temp\RSPA310.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/20210310.pdb" /debug /machine:I386 /out:"Debug/20210310.exe" /pdbtype:sept 
+.\Debug\StdAfx.obj
+.\Debug\20210310.res
+.\Debug\20210310.obj
+]
+Creating command line "link.exe @C:\Users\qiuye\AppData\Local\Temp\RSPA310.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+20210310.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+20210310.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
