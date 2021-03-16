@@ -1,0 +1,1 @@
+SELECT * FROM sakila.actor ORDER BY actor_id DESC
