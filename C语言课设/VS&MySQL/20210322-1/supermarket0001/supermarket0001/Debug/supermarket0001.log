@@ -1,0 +1,11 @@
+﻿  menu.cpp
+  vip.cpp
+E:\desktop\codebase\supermarket0001\supermarket0001\vip.cpp(8,1): warning C4005: “LEN”: 宏重定义
+E:\desktop\codebase\supermarket0001\supermarket0001\head.h(9): message : 参见“LEN”的前一个定义
+E:\desktop\codebase\supermarket0001\supermarket0001\vip.cpp(135,9): warning C4101: “v”: 未引用的局部变量
+E:\desktop\codebase\supermarket0001\supermarket0001\vip.cpp(134,9): warning C4101: “cost”: 未引用的局部变量
+E:\desktop\codebase\supermarket0001\supermarket0001\vip.cpp(137,16): warning C4101: “choose”: 未引用的局部变量
+E:\desktop\codebase\supermarket0001\supermarket0001\vip.cpp(137,24): warning C4101: “yes”: 未引用的局部变量
+  正在生成代码...
+E:\desktop\codebase\supermarket0001\supermarket0001\vip.cpp(227): warning C4715: “searchv”: 不是所有的控件路径都返回值
+  supermarket0001.vcxproj -> E:\desktop\codebase\supermarket0001\Debug\supermarket0001.exe
