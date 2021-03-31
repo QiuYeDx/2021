@@ -7,7 +7,7 @@ public:
     Birth()=default;
     Birth(int y,int m,int d):year(y),month(m),day(d){
     }
-    Birth(Birth& birth){
+    Birth(const Birth& birth){
         year=birth.year;
         month=birth.month;
         day=birth.day;
@@ -40,7 +40,7 @@ public:
         cout << "ID : " << id << endl;
         birth.showBirth();
     }
-    void setPeople(int num,string &s,string &i,Birth&& bir){
+    void setPeople(int num,string &s,string &i,Birth &&bir){
         number=num;
         sex=s;
         id=i;
@@ -59,5 +59,7 @@ int main() {
     cin >> number >> s1 >> s2 >> y >> m >> d;
     a.setPeople(number,s1,s2,Birth(y,m,d));
     a.showPeople();
+    //Birth j(Birth(3,3,3));
+    Birth j=Birth(3,3,3);
     return 0;
 }
