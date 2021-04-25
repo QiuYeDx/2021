@@ -1,0 +1,15 @@
+release/bullet.o
+release/enemyplane.o
+release/helpscene.o
+release/main.o
+release/mainscene.o
+release/map.o
+release/myplane.o
+release/restartscene.o
+release/startbutton.o
+release/startscene.o
+release/qrc_res.o
+release/moc_helpscene.o
+release/moc_mainscene.o
+release/moc_restartscene.o
+release/moc_startscene.o

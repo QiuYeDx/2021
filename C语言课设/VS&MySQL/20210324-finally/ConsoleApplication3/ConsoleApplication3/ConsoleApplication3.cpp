@@ -1,4 +1,4 @@
-﻿#include "head.h"
+#include "head.h"
 char zl[200] = "select * from goods_v1.goods";
 char zl_get_id[50] = "select count(ID) from goods_v1.goods";
 char update_key1[50] = "alter table goods_v1.goods drop ID";

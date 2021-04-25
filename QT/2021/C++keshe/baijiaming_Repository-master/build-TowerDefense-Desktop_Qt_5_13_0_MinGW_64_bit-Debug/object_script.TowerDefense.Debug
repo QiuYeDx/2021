@@ -1,0 +1,14 @@
+debug/main.o
+debug/startwindow.o
+debug/gamewindow.o
+debug/selectionframe.o
+debug/towerbaseclass.o
+debug/defensetower_1.o
+debug/defensetower_2.o
+debug/defensetower_3.o
+debug/defensetower_4.o
+debug/enemybaseclass.o
+debug/enemy_1.o
+debug/enemy_2.o
+debug/enemy_3.o
+debug/enemy_4.o

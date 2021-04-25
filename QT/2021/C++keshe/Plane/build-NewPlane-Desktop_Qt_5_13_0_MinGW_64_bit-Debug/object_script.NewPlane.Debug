@@ -1,0 +1,15 @@
+debug/bullet.o
+debug/enemyplane.o
+debug/helpscene.o
+debug/main.o
+debug/mainscene.o
+debug/map.o
+debug/myplane.o
+debug/restartscene.o
+debug/startbutton.o
+debug/startscene.o
+debug/qrc_res.o
+debug/moc_helpscene.o
+debug/moc_mainscene.o
+debug/moc_restartscene.o
+debug/moc_startscene.o

@@ -1,0 +1,14 @@
+release/main.o
+release/startwindow.o
+release/gamewindow.o
+release/selectionframe.o
+release/towerbaseclass.o
+release/defensetower_1.o
+release/defensetower_2.o
+release/defensetower_3.o
+release/defensetower_4.o
+release/enemybaseclass.o
+release/enemy_1.o
+release/enemy_2.o
+release/enemy_3.o
+release/enemy_4.o
