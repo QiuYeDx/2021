@@ -15,7 +15,7 @@ void dfs(int x){
         nowtime-=a[x];  //去掉子集中这道题目的时间
     }
     dfs(x+1);   //不选这道题目，直接进行下一层递归
-} 
+}
 int main() {
     cin >> s[0] >> s[1] >> s[2] >> s[3];
     for(int i=0;i<4;i++){   //四种科目
