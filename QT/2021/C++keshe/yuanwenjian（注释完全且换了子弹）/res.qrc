@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/app.ico</file>
+        <file>res/background.jpg</file>
+        <file>res/bullet.jpg</file>
+        <file>res/myplane.png</file>
+        <file>res/otherplane.png</file>
+        <file>res/Startbutton.png</file>
+        <file>res/restart.png</file>
+        <file>res/continuebtn.png</file>
+        <file>res/frame.jpg</file>
+        <file>res/bullet.png</file>
+    </qresource>
+</RCC>
